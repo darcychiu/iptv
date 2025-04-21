@@ -73,7 +73,7 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000198
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000445
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://live.fanmingming.cn/tv/河北卫视.png",group-title="卫视",河北卫视高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000575
-#EXTINF:-1 tvg-name="黑龙江视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江视.png",group-title="卫视",黑龙江视高清
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://live.fanmingming.cn/tv/黑龙江卫视.png",group-title="卫视",黑龙江视高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000196
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://live.fanmingming.cn/tv/山东卫视.png",group-title="卫视",山东卫视高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000470
@@ -179,7 +179,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000115
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000119
 #EXTINF:-1 tvg-name="淮北经济生活" tvg-logo="https://live.fanmingming.cn/tv/淮北经济生活.png",group-title="其他",淮北经济生活
 http://10.255.126.3:8006/AHBKLIVE/11111120210510000000000000000121
-#EXTINF:-1 tvg-name="KAKU少儿" tvg-logo="https://live.fanmingming.cn/tv/KAKU少儿.png",group-title="其他",KAKU少儿
+#EXTINF:-1 tvg-name="kaku" tvg-logo="https://live.fanmingming.cn/tv/kaku.png",group-title="其他",KAKU少儿
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000150
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png",group-title="其他",金鹰卡通
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000151
