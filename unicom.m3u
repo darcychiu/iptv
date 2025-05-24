@@ -4,7 +4,8 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png",group-title="央视",CCTV-2高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png",group-title="央视",CCTV-3高清
-http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000001
+#http://10.255.126.3:8006/AHBKLIVE/11111120220816000000000000000001
+http://10.49.6.247:8112/AHBKLIVE/00000001000000050000000000000487
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png",group-title="央视",CCTV-4高清
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",group-title="央视",CCTV-5高清
