@@ -40,7 +40,7 @@ http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000580
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CCTV4k.png",group-title="央视频道",CCTV-4K
 http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000626
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN.png",group-title="央视频道",CGTN
-http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000148
+https://english-liveali.cgtn.com/hls/yypdyyctzb/yypdyyctzbcd/playlist.m3u8
 #EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CGTN记录.png",group-title="央视频道",CGTN记录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽卫视.png",group-title="卫视频道",安徽卫视高清
@@ -160,17 +160,15 @@ http://10.16.198.7:8112/AHBKLIVE/4d0ec3c7a7cf41458ce3c7e241f7ed7a
 #EXTINF:-1 tvg-name="四海钓鱼" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/四海钓鱼.png",group-title="数字频道",四海钓鱼
 http://10.16.198.7:8112/AHBKLIVE/11111120251124000000000000000001
 #EXTINF:-1 tvg-name="kaku" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/kaku.png",group-title="数字频道",KAKU少儿
-http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000150
+http://10.255.127.35:6060/gitv_live/G_KAKU/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰卡通.png",group-title="数字频道",金鹰卡通
-http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000151
+http://10.255.127.35:6060/gitv_live/G_JINYING/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/嘉佳卡通.png",group-title="数字频道",嘉佳卡通
-http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000448
+http://10.255.127.35:6060/gitv_live/G_JIAJIA/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/金鹰纪实.png",group-title="数字频道",金鹰纪实
 http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000569
 #EXTINF:-1 tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/茶.png",group-title="数字频道",茶频道
 http://10.16.198.7:8112/AHBKLIVE/ccfffb202e2e4795b85241af37abc8de
-#EXTINF:-1 tvg-name="财富天下" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/财富天下.png",group-title="数字频道",财富天下
-http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000183
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png",group-title="数字频道",CETV1
 http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000463
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png",group-title="数字频道",CETV2
