@@ -172,9 +172,11 @@ http://10.16.198.7:8112/AHBKLIVE/ccfffb202e2e4795b85241af37abc8de
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV1.png",group-title="数字频道",CETV1
 http://10.16.198.7:8112/AHBKLIVE/00000001000000050000000000000463
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV2.png",group-title="数字频道",CETV2
-http://10.16.198.7:8112/AHBKLIVE/00005000000000000000000000000251
+http://10.255.127.35:6060/gitv_live/G_CETV-2/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
+#EXTINF:-1 tvg-name="CETV3" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV3.png",group-title="数字频道",CETV2
+http://10.255.127.35:6060/gitv_live/G_CETV-3/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/CETV4.png",group-title="数字频道",CETV4
-http://10.16.198.7:8112/AHBKLIVE/00005000000000000000000000000252
+http://10.255.127.35:6060/gitv_live/G_CETV-4/index.m3u8?Playtype=1&gMac=00&partnerCode=-&m3u8_level=2
 #EXTINF:-1 tvg-name="安徽经济生活" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽经济生活.png",group-title="地市频道",安徽经济生活
 http://10.16.198.7:8112/AHBKLIVE/11111100000000000000000000000005
 #EXTINF:-1 tvg-name="安徽影视" tvg-logo="https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/logo/安徽影视.png",group-title="地市频道",安徽影视
